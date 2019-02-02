@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "nFNkfkj",
+      "script": "yarn",
+      "interpreter": "bash",
+      "args": "start --prefix /home/app/my-playmobox",
+      "env": {
+        "PORT": 4100
+      }
+    }
+  ]
+}
